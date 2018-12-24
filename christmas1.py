@@ -14,7 +14,7 @@ width = height = 500
 window = turtle.Screen() 
 window.setup(width, height) 
 window.bgcolor("sky blue") 
-window.title("Happy Holidays") 
+window.title("Merry Christmas") 
  
 snowball_rate = 1, 3 
 snowball_size = 5, 15 
